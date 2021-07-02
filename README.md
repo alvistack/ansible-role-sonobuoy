@@ -9,7 +9,7 @@ Ansible Role for Sonobuoy Installation.
 
 ## Requirements
 
-This role require Ansible community package 4.1 or higher.
+This role require Ansible community package 4.2 or higher.
 This role was designed for:
 
   - Ubuntu 18.04, 20.04, 20.10, 21.04
