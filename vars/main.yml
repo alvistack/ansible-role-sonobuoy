@@ -15,10 +15,10 @@
 # limitations under the License.
 
 _sonobuoy_version:
-  "v0.52": "v0.52.0"
+  "0.52": "0.52.0"
 
 _sonobuoy_download:
-  "v0.52.0":
+  "0.52.0":
     url: "http://github.com/vmware-tanzu/sonobuoy/releases/download/v0.52.0/sonobuoy_0.52.0_linux_amd64.tar.gz"
     dest: "/var/cache/ansible/46c514a9336f363b4a898149b4eed74b897ac92ee901e3f81d1c05487891cc9b/sonobuoy_0.52.0_linux_amd64.tar.gz"
     checksum: "46c514a9336f363b4a898149b4eed74b897ac92ee901e3f81d1c05487891cc9b"
