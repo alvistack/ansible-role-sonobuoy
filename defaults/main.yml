@@ -15,7 +15,7 @@
 # limitations under the License.
 
 # Sonobuoy release.
-sonobuoy_release: "0.52"
+sonobuoy_release: "0.53"
 
 # Sonobuoy version.
 sonobuoy_version: "{{ _sonobuoy_version[sonobuoy_release] }}"
