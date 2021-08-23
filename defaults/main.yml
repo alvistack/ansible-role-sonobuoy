@@ -13,12 +13,3 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-
-# Sonobuoy release.
-sonobuoy_release: "0.53"
-
-# Sonobuoy version.
-sonobuoy_version: "{{ _sonobuoy_version[sonobuoy_release] }}"
-
-# Sonobuoy download details.
-sonobuoy_download: "{{ _sonobuoy_download[sonobuoy_version] }}"
