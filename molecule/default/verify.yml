@@ -20,6 +20,7 @@
   become: true
   tasks:
     - name: sonobuoy version
-      ansible.builtin.command: sonobuoy version
+      ansible.builtin.command:
+        cmd: sonobuoy version
       register: result
       changed_when: result is not succeeded
